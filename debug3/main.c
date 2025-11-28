@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int main()
 {
@@ -9,6 +8,7 @@ int main()
 
 /**
 REASONING:
-
+    1. In this case, "stdio.h" is sufficient for a simple "Hello world!" printf statement.
+    "stdio.lib" is focused on codes with binary files, meaning machine codes.
 
 */
