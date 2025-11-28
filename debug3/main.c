@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int main()
 {
@@ -9,6 +8,8 @@ int main()
 
 /**
 REASONING:
-
+i. The program includes <stdlib.h>, but it does not use any function from that library.
+ii. The only function used is printf(), which belongs to <stdio.h>. Therefore, <stdlib.h>
+iii. is unnecessary and should be removed to avoid redundant code.
 
 */
