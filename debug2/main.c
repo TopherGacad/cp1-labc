@@ -2,15 +2,18 @@
 
 int main() {
     int age = 20;
-    double gpa = 1.75;
+    float gpa = 1.75;
 
-    printf("Age: %d, GPA: %.2lf\n", gpa, age);
+    printf("Age: %d, GPA: %.2f\n", age, gpa); 
 
     return 0;
 }
 
 /**
 REASONING:
+1. data type for gpa should be in float
+2. removed 1 from format specifier
+3. input age before gpa
 
 
 */
