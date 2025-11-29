@@ -9,6 +9,7 @@ int main()
 
 /**
 REASONING:
-
+%d is the fornat specifier for int types
+use %.3lf to format double to 3 decimal places
 
 */

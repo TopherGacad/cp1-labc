@@ -9,6 +9,7 @@ int main()
 
 /**
 REASONING:
+Program used a printf statement to output text to the console
 
 
 */

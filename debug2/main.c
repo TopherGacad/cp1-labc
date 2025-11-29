@@ -12,6 +12,6 @@ int main()
 
 /**
 REASONING:
-
+The order of variables must match the format specifiers
 
 */
