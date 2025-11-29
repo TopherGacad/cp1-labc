@@ -2,12 +2,12 @@
 
 int main() {
     double distance = 12.345;
-    printf("Distance: %d km\n", distance);
+    printf("Distance: %f km\n", distance);
     return 0;
 }
 
 /**
 REASONING:
-
+format specifier should be f
 
 */
