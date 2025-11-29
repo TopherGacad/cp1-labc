@@ -8,7 +8,6 @@ int main () {
 
 /*
     Reasoning:
-    1. The string name was not declared, so I used char
-    to create an array of characters for it to work.
-*/   
+    1. The string name was not declared because thereis no built in string type
+*/
 

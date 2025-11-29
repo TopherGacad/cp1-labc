@@ -1,14 +1,14 @@
 #include <stdio.h>
 
-int main () {
-
-    float pi = 3.14159;
-    printf("Pi is approximately: %.5f\n", pi);
+int main() {
+    char grade = 'A';
+    printf("Grade: %c\n", grade);
     return 0;
 }
 
 /*
-    Reasoning:
-    1. Pi should be declared as a float since it has decimals.
-    2. Format Specifier should have .5 since the given has 5 decimal places.
+    REASONING:
+    1. A single char should use sing quotes
+    2. The format specifier should be %c instead of %s
+
 */
