@@ -1,14 +1,12 @@
 #include <stdio.h>
-#include <stdlib.h>
-
-int main()
+int main ()
 {
-    printf("Hello world!\n");
+    printf("Hello world!");
     return 0;
 }
 
 /**
 REASONING:
-
+// Only one semicolon
 
 */
