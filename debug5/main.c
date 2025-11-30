@@ -1,12 +1,11 @@
 #include <stdio.h>
 
-int main() {
+int main () {
     double distance = 12.345;
-    printf("Distance: %d km\n", distance);
+    printf("Distance: %lf km\n", distance);
     return 0;
 }
-
 /**
 REASONING:
-
+// Changed the format specifier from %d to %lf
 */
