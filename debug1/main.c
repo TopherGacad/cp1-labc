@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    string name = "Juan";
+    char name[] = "Juan";
     printf("Name: %s\n", name);
     return 0;
 }
@@ -9,5 +9,6 @@ int main() {
 /**
 REASONING:
 
-
+C language does not have data type string 
+so we should use char instead
 */
