@@ -9,6 +9,5 @@ int main()
 
 /**
 REASONING:
-
-
+    i. The stdio.h header file declares function that permits the programmer to carry out input/output operations.
 */
