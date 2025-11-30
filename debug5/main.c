@@ -8,6 +8,6 @@ int main() {
 
 /**
 REASONING:
-Changed the format specifier from "%d" to "%.3f"
+Changed the format specifier from "%d" to "%.3f"gi=
 
 */
