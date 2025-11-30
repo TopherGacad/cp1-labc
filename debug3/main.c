@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int main()
 {
@@ -9,6 +8,7 @@ int main()
 
 /**
 REASONING:
-
-
+i. stdio.h is required because it declares the printf function.
+ii. stdlib.h is not necessary. removing unnecessary headers makes the code cleaner and easier to read.
+iii. alr correct, prints "Hello world!", so no debugging was needed.
 */
