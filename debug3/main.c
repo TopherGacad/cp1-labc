@@ -9,6 +9,5 @@ int main()
 
 /**
 REASONING:
-
-
+Theres nothing to debug Sir lol :>>
 */
