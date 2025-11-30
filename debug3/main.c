@@ -9,6 +9,6 @@ int main()
 
 /**
 REASONING:
-
-
+1. No changes made.
+2. Program used printf function to print "Hello World" to the console.
 */
