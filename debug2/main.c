@@ -12,6 +12,6 @@ int main() {
 /**
 REASONING:
 The issue is the wrong order of format specifiers and variables in printf. 
-The solution is to match them correctly: %d for age and %.2f for gpa.
+The solution is to match them correctly: %d for age and %.2lf for gpa.
 
 */
