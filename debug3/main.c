@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+
 
 int main()
 {
@@ -10,5 +10,6 @@ int main()
 /**
 REASONING:
 
+'stdlib.h' is not necessary for this program.It should be removed.
 
 */
