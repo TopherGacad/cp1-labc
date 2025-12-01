@@ -9,6 +9,6 @@ int main()
 
 /**
 REASONING:
-
+1. no error or buggy code that needs to be fixed in this code
 
 */
