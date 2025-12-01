@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+
 
 int main()
 {
@@ -9,6 +9,10 @@ int main()
 
 /**
 REASONING:
+1. no need to debug.
+2. just remove the unnecesary header which is '#include <stdlib.h>'.
+2.. the code is correct.
+
 
 
 */
