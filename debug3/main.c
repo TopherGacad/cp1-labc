@@ -9,6 +9,6 @@ int main()
 
 /**
 REASONING:
-
+There are no errors because all syntax and function calls are valid.
 
 */
