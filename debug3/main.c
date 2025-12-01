@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int main()
 {
@@ -9,6 +8,6 @@ int main()
 
 /**
 REASONING:
-
-
+The code is working, however, the #include <stdlib.h> is not necessary.
+By removing this, we can make the code more efficient.
 */
