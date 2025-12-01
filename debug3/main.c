@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int main()
 {
@@ -7,8 +6,9 @@ int main()
     return 0;
 }
 
+
 /**
 REASONING:
-
+1. This uses a #include <stdlib.h> even though nothing from that library is used.
 
 */
