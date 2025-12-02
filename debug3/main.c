@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int main()
 {
@@ -8,7 +7,7 @@ int main()
 }
 
 /**
-REASONING:
+REASONING: #include <stdlib.h> which is not needed in this program we just need to remove it
 
 
 */
