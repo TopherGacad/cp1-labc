@@ -8,6 +8,6 @@ int main()
 
 /**
 REASONING:
-<stdlib.h> is included but not required but its no function in this program.
+<stdlib.h> is  included but not required but its no function in this program.
 
 */
