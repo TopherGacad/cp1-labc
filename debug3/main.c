@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int main()
 {
@@ -9,6 +8,6 @@ int main()
 
 /**
 REASONING:
-
+    removed extra header, though nothing else to debug.
 
 */
