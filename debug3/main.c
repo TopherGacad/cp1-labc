@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int main()
 {
@@ -10,5 +9,7 @@ int main()
 /**
 REASONING:
 
+stdlib.h is not necessary for that simple Hello world program because
+it only uses printf, which is declared in stdio.h and does not call any stdlib.h functions
 
 */
