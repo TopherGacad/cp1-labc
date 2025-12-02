@@ -10,7 +10,7 @@ int main() {
 }
 
 /**
-REASONING:
+REASONING: the age should be first before gpa in the printf statement
 
 
 */
