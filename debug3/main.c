@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+
 
 int main()
 {
@@ -8,7 +8,7 @@ int main()
 }
 
 /**
-REASONING:
+REASONING:"#include <stdlib.h>" is not necessary just remove it to fix the code.
 
 
 */
