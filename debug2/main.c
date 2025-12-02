@@ -10,7 +10,8 @@ int main() {
 }
 
 /**
-REASONING:
+REASONING: Variables must be used with the correct format specifiers in print f
+ %d is for integers and %.2lf is for doubles
 
 
 */
