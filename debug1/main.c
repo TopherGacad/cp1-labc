@@ -1,13 +1,11 @@
 #include <stdio.h>
 
 int main() {
-    string name = "Juan";
+    char name [] = "Juan";
     printf("Name: %s\n", name);
     return 0;
 }
 
-/**
-REASONING:
 
+/*REASONING:the name should be char and not string because in C language there is no string type you need to use char array*/
 
-*/
