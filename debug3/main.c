@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int main()
 {
@@ -9,6 +8,6 @@ int main()
 
 /**
 REASONING:
-
-
+a. The <stdlib.h> header is included but not necessary for this simple program,
+so it can be removed to keep the code clean and avoid including unused declarations.
 */
