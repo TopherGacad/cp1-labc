@@ -1,5 +1,4 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int main()
 {
@@ -9,6 +8,6 @@ int main()
 
 /**
 REASONING:
-
+1. The varieble declaration does not have any errors but it did not run due to the double c preprocessor 
 
 */
