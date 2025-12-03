@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>A
 
 int main() {
     double distance = 12.345;
@@ -8,5 +8,5 @@ int main() {
 
 /**
 REASONING:
-
+change the format specifier from %d into %lf
 */
