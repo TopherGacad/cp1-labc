@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <stdlib.h>
+
 
 int main()
 {
@@ -9,6 +9,7 @@ int main()
 
 /**
 REASONING:
+1. remove include to avoid confusion
 
 
 */
